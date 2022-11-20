@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I'm a passionate front-end developer based in the UK</h3>
 
+- 🔭 I’m currently working on [StagefrightsPlay](https://github.com/baconchaney/StagefrightsPlay)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chris-chaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-chaney" height="30" width="40" /></a>
