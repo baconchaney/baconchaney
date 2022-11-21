@@ -3,6 +3,11 @@
 
 - 🔭 I’m currently working on [StagefrightsPlay](https://github.com/baconchaney/StagefrightsPlay)
 
+<h3 align="center">Here's some examples of websites I have designed/developed</h3>
+<p align="left"><a href="https://www.cookiedoughclub.co.uk/" target="_blank">Cookie Dough Club</a>. Built using Wordpress, I created the design following given by the customer and the logo they already had and built the custom theme from the ground up. A custom plugin was also created to extend the mix and match functionality provided by another plugin.</p>
+
+<p align="left"><a href="https://tunstallfinancialmanagement.co.uk/" target="_blank">Tunstall Financial Management</a>. I was sub-contracted by RHDC to develop a website for their customer. RHDC provided the design in flat Photoshop files and between us planned how the data would be structured. Again the website uses Wordpress as its CMS and the theme was developed from start to finish.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chris-chaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-chaney" height="30" width="40" /></a>
