@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I'm a passionate front-end developer based in the UK</h3>
 
-- 🔭 I’m currently working on [StagefrightsPlay](https://github.com/baconchaney/StagefrightsPlay)
+- 🔭 I’m currently working on [StagefrightsPlay](https://github.com/baconchaney/StagefrightsPlay) & [Woocommerce Gift Options - plugin](https://github.com/baconchaney/woocommerce-gift-options)
 
 <h3 align="center">Here's some examples of websites I have designed/developed</h3>
 <p align="left"><a href="https://www.cookiedoughclub.co.uk/" target="_blank">Cookie Dough Club</a>. Built using Wordpress, I created the design following given by the customer and the logo they already had and built the custom theme from the ground up. A custom plugin was also created to extend the mix and match functionality provided by another plugin.</p>
