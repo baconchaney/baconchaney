@@ -4,9 +4,13 @@
 - 🔭 I’m currently working on [StagefrightsPlay](https://github.com/baconchaney/StagefrightsPlay) & [Woocommerce Gift Options - plugin](https://github.com/baconchaney/woocommerce-gift-options)
 
 <h3 align="center">Here's some examples of websites I have designed/developed</h3>
+<p align="left"><a href="https://iroaduk.com/" target="_blank">iRoad UK</a>. I was asked to closely follow the design of the global iRoad website to create a website for the UK Distributor. The e-commerce website was built using Wordpress as the CMS and Woocommerce to provide the majority of the e-commerce functionality.</p>
+
 <p align="left"><a href="https://www.cookiedoughclub.co.uk/" target="_blank">Cookie Dough Club</a>. Built using Wordpress, I created the design following given by the customer and the logo they already had and built the custom theme from the ground up. A custom plugin was also created to extend the mix and match functionality provided by another plugin.</p>
 
 <p align="left"><a href="https://tunstallfinancialmanagement.co.uk/" target="_blank">Tunstall Financial Management</a>. I was sub-contracted by RHDC to develop a website for their customer. RHDC provided the design in flat Photoshop files and between us planned how the data would be structured. Again the website uses Wordpress as its CMS and the theme was developed from start to finish.</p>
+
+<p align="left"><a href="https://www.alchemillarestaurant.uk/" target="_blank">Alchemilla Restaurant Nottingham</a>. The only guidance on this particular website I was given was that the owner wanted it to move horizontally like their previous website. The main issue the previous website had was that there was limited space to display any content due to the design and the horizontal scrolling felt "jumpy". In the end, I decided a slide based design would be a nice compromise as it allowed me to make use of some of the beautiful photography they already had of the restaurant. It was a nice challenge to investigate and implement although it has been modified since my departure from Fifteen IT Ltd, beyond my control.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
