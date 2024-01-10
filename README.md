@@ -10,7 +10,7 @@
 
 <p align="left"><a href="https://tunstallfinancialmanagement.co.uk/" target="_blank">Tunstall Financial Management</a>. I was sub-contracted by RHDC to develop a website for their customer. RHDC provided the design in flat Photoshop files and between us planned how the data would be structured. Again the website uses Wordpress as its CMS and the theme was developed from start to finish.</p>
 
-<p align="left"><a href="https://www.alchemillarestaurant.uk/" target="_blank">~~Alchemilla Restaurant Nottingham~~</a>. The website has since gone through a revamp so the live site is no longer the one I built.</p>
+<p align="left"><a href="https://www.alchemillarestaurant.uk/" target="_blank"><del>Alchemilla Restaurant Nottingham</del></a>. The website has since gone through a revamp so the live site is no longer the one I built.</p>
 
 <p align="left"><a href="https://www.fdoncaster.com/" target="_blank">F Doncaster Ltd</a>. This e-commerce website was launched at the end of 2018 for a local butcher to be able to have an online presence and enable them to sell their products online to the local area. When the lockdowns first started, the website was developed further to enable collection's and deliveries so they could continue to operate during a time when otherwise they would have been forced to temporarily close.</p>
 
